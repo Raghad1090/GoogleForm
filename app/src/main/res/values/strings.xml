@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Google Form</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="username">Username</string>
+    <string name="paassword">Paassword</string>
+    <string name="confirm">Confirm</string>
+</resources>
